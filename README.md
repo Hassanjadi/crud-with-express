@@ -1,4 +1,4 @@
-# Express.js 05
+# Installation
 
 File [`index.js`](./index.js) adalah sebuah file yang berisi implementasi dari
 HTTP server yang ditulis menggunakan Express.js dan mengimplementasikan view
